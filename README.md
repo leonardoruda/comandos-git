@@ -14,3 +14,5 @@
 ## git remote add origin https://github.com/user/directory-name - links git local repository w/ remote repo (SSH possibly required);
 ## git push -u origin master - uploads changes to the remote;
 ## git revert --no-edit commit_id - faz um soft reset e mantém o último commit funcional;
+## git push origin :branch - deleta a branch do repo remoto;
+## git branch -D branch - deleta a branch do repo local;
