@@ -17,4 +17,5 @@
 ## git push origin :branch - deleta a branch do repo remoto;
 ## git branch -D branch - deleta a branch do repo local;
 ## git pull origin master - traz arqs remotos para a branch master local;
+## git merge branch - mescla alterações da branch c/ a branch atual;
 ## git clone https://github.com/directory-to-be-cloned - cria um repo local a partir de um repo remoto;
