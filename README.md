@@ -1,1 +1,1 @@
-swsyf
+Alteração p/ descrever mais precisamente o sistema.
